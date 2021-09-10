@@ -43,3 +43,5 @@ MANIFEST
 
 # Visual Studio Code files
 .vscode
+
+.pybuild/
