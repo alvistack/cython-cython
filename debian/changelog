@@ -1,0 +1,5 @@
+python-cython (100:0.29.25-1) UNRELEASED; urgency=medium
+
+  * https://github.com/cython/cython/releases/tag/0.29.25
+
+ -- Wong Hoi Sing Edison <hswong3i@gmail.com>  Mon, 06 Dec 2021 10:59:58 +0800
