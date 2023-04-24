@@ -1,0 +1,5 @@
+python-cython (100:0.29.34-1) UNRELEASED; urgency=medium
+
+  * https://github.com/cython/cython/releases/tag/0.29.34
+
+ -- Wong Hoi Sing Edison <hswong3i@pantarei-design.com>  Sun, 02 Apr 2023 21:49:24 +0800
