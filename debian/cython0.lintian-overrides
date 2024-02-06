@@ -1,0 +1,4 @@
+cython0: copyright-without-copyright-notice
+cython0: initial-upload-closes-no-bugs
+cython0: no-manual-page
+cython0: zero-byte-file-in-doc-directory
