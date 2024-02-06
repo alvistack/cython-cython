@@ -1,0 +1,5 @@
+python-cython source: file-without-copyright-information
+python-cython source: no-debian-changes
+python-cython source: source-contains-prebuilt-windows-binary
+python-cython source: source-is-missing
+python-cython source: source-package-encodes-python-version
