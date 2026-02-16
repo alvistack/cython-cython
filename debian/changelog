@@ -1,0 +1,5 @@
+python-cython (100:3.0.12-1) UNRELEASED; urgency=medium
+
+  * https://github.com/cython/cython/releases/tag/3.0.12
+
+ -- Wong Hoi Sing Edison <hswong3i@pantarei-design.com>  Tue, 11 Feb 2025 16:02:49 +0800
